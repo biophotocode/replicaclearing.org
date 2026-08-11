@@ -62,6 +62,7 @@ Prior to functionalisation, AcX powder should be dissolved in anhydrous DMSO to 
 13. Incubate the sample with _polymerisation monomer solution_ at 37 °C overnight.
 
 ### Option A: tissues with low/no collagen (e.g. brain)
+
 {:start="14"}
 14. Incubate with 8 units / ml proteinase K and 2 units / ml DNAse in _enzyme digestion buffer_ at 37 °C with gentle shaking overnight.
 15. Incubate in _cleaning buffer_ for at least one day at 37 °C with gentle shaking.
@@ -70,6 +71,7 @@ Prior to functionalisation, AcX powder should be dissolved in anhydrous DMSO to 
 18. Wash with water as a refractive index matching liquid.
 
 ### Option B: tissues with high collagen (e.g. kidney)
+
 {:start="14"}
 14. Incubate with _collagenase mix_ at 37 °C with gentle shaking for seven hours (timing can be adjusted to fit within working day).
 15. Incubate with 8 units / ml proteinase K and 2 units / ml DNAse in _enzyme digestion buffer_ at 37 °C with gentle shaking overnight.
