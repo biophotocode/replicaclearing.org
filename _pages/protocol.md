@@ -6,6 +6,23 @@ permalink: "/protocol/"
 # Protocol
 This is the current, August 2026 version of the REPLICA protocol. For any queries, please contact James Manton via [jmanton@mrclmb.ac.uk](mailto:jmanton@mrclmb.ac.uk?subject=REPLICA clearing protocol).
 
+In brief, we first fix and wash the sample with detergent to facilitate antibody penetration.
+Primary antibodies are used as supplied, but secondary antibodies must first be functionalised with vinyl groups using, for example, acryloyl-X in order to ensure their incorporation into the hydrogel.
+After staining, the tissue is infused with a monomer solution inhibited from polymerisation before a new monomer solution with initiation and accelerant is added.
+A series of enzymatic incubations then digests the sample, with fragments washed out using SDS.
+Finally, the sample is washed using water, which also acts as the refractive index matching liquid.
+
+
+## Preincubation monomer solution
+All items are purchased from Sigma-Aldrich.
+
+| Component       | Cat. no. | Stock    w/w % | Final    w/w % | μl stock per ml final |
+|:---------------:|:--------:|:--------------:|:--------------:|:---------------------:|
+| Acrylamide      | A4058    | 40             | 7.5            | 187.5                 |
+| Bisacrylamide   | M1533    | 2              | 0.25           | 125                   |
+| 4-hydroxy-TEMPO | 176141   | 1              | 0.001          | 1                     |
+| Water           | —        | —              | —              | 686.5                 | 
+
 ## Polymerisation monomer solution
 All items are purchased from Sigma-Aldrich.
 
@@ -18,20 +35,10 @@ All items are purchased from Sigma-Aldrich.
 | APS             | A3678    | 10             | 0.15           | 15                    |
 | Water           | —        | —              | —              | 656.5                 |
 
-## Preincubation monomer solution
-All items are purchased from Sigma-Aldrich.
-
-| Component       | Cat. no. | Stock    w/w % | Final    w/w % | μl stock per ml final |
-|:---------------:|:--------:|:--------------:|:--------------:|:---------------------:|
-| Acrylamide      | A4058    | 40             | 7.5            | 187.5                 |
-| Bisacrylamide   | M1533    | 2              | 0.25           | 125                   |
-| 4-hydroxy-TEMPO | 176141   | 1              | 0.001          | 1                     |
-| Water           | —        | —              | —              | 686.5                 | 
-
 ## Buffers
 _Blocking buffer_: 4 % normal donkey serum, 0.25 % Triton X-100 in PBS
 
-_Enzyme digestion buffer_: 10 mM Tris-HCl, 2.5 mM MgCl2, 0.5 mM CaCl2 @ pH 7.6
+_Enzyme digestion buffer_: 10 mM Tris-HCl, 2.5 mM MgCl₂, 0.5 mM CaCl₂ @ pH 7.6
 
 _Cleaning buffer_: 200 mM SDS, 200 mM NaCl, 50 mM HEPES @ pH 7.0
 
