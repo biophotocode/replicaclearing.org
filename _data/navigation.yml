@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Concept"
+    url: /concept/
+  - title: "Protocol"
+    url: /protocol/
+  - title: "Manuscript"
+    url: https://www.biorxiv.org/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Contact"
+    url: /contact/
